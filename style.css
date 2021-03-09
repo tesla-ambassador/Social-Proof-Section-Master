@@ -96,12 +96,12 @@ body {
 .articles article p {
     padding: 10px;
 }
-#profile-image {
+.profile-image {
     height: 32px;
     border-radius: 50%;
     padding-right: 10px;
 }
-#verified-buyer {
+.verified-buyer {
     color: hsl(333, 80%, 67%);
     font-weight: 400;
 }
